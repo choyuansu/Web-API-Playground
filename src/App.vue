@@ -17,6 +17,8 @@ import Speech from './components/Speech.vue';
 
     <h1 class="text-4xl font-bold text-center m-8">Web API Playground</h1>
     <Battery />
+<DeviceMemory />
+    <Geolocation />
     <MediaStream />
     <NetworkInformation />
     <Sensor />

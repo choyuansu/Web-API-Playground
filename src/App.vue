@@ -1,6 +1,8 @@
 <script setup>
 import Toast from 'primevue/toast';
 import Battery from './components/Battery.vue';
+import DeviceMemory from './components/DeviceMemory.vue';
+import Geolocation from './components/Geolocation.vue';
 import MediaStream from './components/MediaStream.vue';
 import NetworkInformation from './components/NetworkInformation.vue';
 import Sensor from './components/Sensor.vue';
